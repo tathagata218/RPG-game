@@ -1,0 +1,20 @@
+body{background-color: gray;
+font-family: Arial;}
+
+#title{text-align: center;}
+
+.pictures{ text-align: center;
+    }
+
+#enemySection{
+    text-align: center;
+}
+.healthPoints{font-family: Arial;
+font-size: 15px;
+font-weight: bold;}
+
+#userCharecter{text-align: center;}
+
+#yourCharecter{text-align: center;}
+
+#attackSection{text-align: center;}
